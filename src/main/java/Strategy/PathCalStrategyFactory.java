@@ -9,7 +9,7 @@ public class PathCalStrategyFactory {
             case BIKE:
                 return new BikePathCalcStrategy();
             case WALK:
-                return new WalkPathCalcStrategy();
+                //return new WalkPathCalcStrategy();
             default:
                 return new CarPathCalcStrategy();
         }

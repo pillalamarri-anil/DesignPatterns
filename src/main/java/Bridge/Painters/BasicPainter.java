@@ -1,7 +1,7 @@
 package Bridge.Painters;
 
 import Bridge.Shapes.Cube;
-import DesignPatterns.BridgePattern.Shapes.Shape;
+import Bridge.Shapes.Shape;
 
 public class BasicPainter extends Painter{
 
