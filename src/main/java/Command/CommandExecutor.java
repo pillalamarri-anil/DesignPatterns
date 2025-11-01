@@ -30,9 +30,6 @@ private List<Command> commandList;
                     return;
                 }
             }
-
         }
     }
-
-
 }

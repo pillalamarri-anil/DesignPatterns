@@ -14,6 +14,4 @@ public class ATM {
     public void nextState() {
         state.nextState(this);
     }
-
-
 }
